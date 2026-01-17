@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 #### I'm Tanish, a computer engineering student at the University of Maryland.
 #### I like to design and build anything data related.
 #### Experienced in creating data pipelines and data processing solutions.
