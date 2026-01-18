@@ -2,7 +2,7 @@
 #### I'm a computer engineering student at the University of Maryland.
 #### Passionate about designing and building data solutions.
 #### Experienced in creating data pipelines and data workflows.
-#### Currently expanding my expertise in cloud technologies.
+#### Expanding my expertise in cloud technologies.
 
 
 
